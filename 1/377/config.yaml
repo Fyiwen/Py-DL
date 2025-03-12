@@ -1,0 +1,12 @@
+dataset:
+  zju_mocap_path: /home/fwy/dataset/ZJU-Mocap
+  subject: '377'
+  sex: 'neutral'
+
+
+training_view: 0
+max_frames: 570
+
+output:
+  dir: ../../dataset/zju_mocap/1
+  name: '377'
